@@ -6,17 +6,18 @@ In this notebook, you will load historical Dollar-Yen exchange rate futures data
 
 > **Based on your time series analysis, would you buy the yen now?**
 
+Answer 1: Based on the ARMA and ARIMA modelling, now is not the time to buy the Yen
 
 > **Is the risk of the yen expected to increase or decrease?**
 
+Answer 2: the risk of the Yen is expected to increase based on the GARCH model
 
 > **Based on the model evaluation, would you feel confident in using these models for trading?**
 
-
-
-Answer 1: Based on the ARMA and ARIMA modelling, now is not the time to buy the Yen
-Answer 2: the risk of the Yen is expected to increase based on the GARCH model
 Answer 3: No I would not be confident using these models for trading as the P value is very high (not close to 0) and the GARCH prediction is going to increase.
+
+
+
 
 
 ## Linear Regression Forecast
